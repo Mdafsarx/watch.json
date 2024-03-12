@@ -1,0 +1,112 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "release_year": 2021,
+    "display": {
+      "size": 6.1,
+      "resolution": "1170 x 2532 pixels",
+      "type": "Super Retina XDR OLED"
+    },
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "storage": "128GB, 256GB, 512GB",
+    "camera": {
+      "main": "12 MP (wide), 12 MP (ultrawide)",
+      "front": "12 MP"
+    },
+    "battery": "Non-removable Li-Ion 4352 mAh",
+    "price": {
+      "currency": "USD",
+      "value": 799
+    }
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "release_year": 2021,
+    "display": {
+      "size": 6.2,
+      "resolution": "1080 x 2400 pixels",
+      "type": "Dynamic AMOLED 2X"
+    },
+    "processor": "Exynos 2100 (Global) / Qualcomm Snapdragon 888 (USA/China)",
+    "ram": "8GB",
+    "storage": "128GB, 256GB",
+    "camera": {
+      "main": "12 MP (wide), 64 MP (telephoto), 12 MP (ultrawide)",
+      "front": "10 MP"
+    },
+    "battery": "Non-removable Li-Ion 4000 mAh",
+    "price": {
+      "currency": "USD",
+      "value": 799
+    }
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 6",
+    "release_year": 2021,
+    "display": {
+      "size": 6.4,
+      "resolution": "1080 x 2400 pixels",
+      "type": "OLED"
+    },
+    "processor": "Google Tensor",
+    "ram": "8GB",
+    "storage": "128GB, 256GB",
+    "camera": {
+      "main": "50 MP (wide), 12 MP (ultrawide)",
+      "front": "8 MP"
+    },
+    "battery": "Non-removable Li-Po 4614 mAh",
+    "price": {
+      "currency": "USD",
+      "value": 699
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "model": "9 Pro",
+    "release_year": 2021,
+    "display": {
+      "size": 6.7,
+      "resolution": "1440 x 3216 pixels",
+      "type": "Fluid AMOLED"
+    },
+    "processor": "Qualcomm Snapdragon 888",
+    "ram": "8GB, 12GB",
+    "storage": "128GB, 256GB",
+    "camera": {
+      "main": "48 MP (wide), 50 MP (ultrawide), 8 MP (telephoto)",
+      "front": "16 MP"
+    },
+    "battery": "Non-removable Li-Po 4500 mAh",
+    "price": {
+      "currency": "USD",
+      "value": 969
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11",
+    "release_year": 2021,
+    "display": {
+      "size": 6.81,
+      "resolution": "1440 x 3200 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Qualcomm Snapdragon 888",
+    "ram": "8GB, 12GB",
+    "storage": "128GB, 256GB",
+    "camera": {
+      "main": "108 MP (wide), 13 MP (ultrawide), 5 MP (macro)",
+      "front": "20 MP"
+    },
+    "battery": "Non-removable Li-Po 4600 mAh",
+    "price": {
+      "currency": "USD",
+      "value": 799
+    }
+  }
+]
